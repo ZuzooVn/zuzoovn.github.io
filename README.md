@@ -1,2 +1,2 @@
-# Blog
-Powered by [Ghost](http://ghost.org) and [Buster](https://github.com/axitkhurana/buster/).
+Welcome to the repository of [my personal blog on Github!](https://zuzoovn.github.io/)
+
